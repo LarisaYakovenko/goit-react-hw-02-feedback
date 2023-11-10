@@ -1,0 +1,16 @@
+li {
+  text-decoration: none;
+  list-style-type: none;
+
+}
+li > span {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.statist {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  font-style: italic;
+}

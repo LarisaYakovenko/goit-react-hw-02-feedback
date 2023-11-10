@@ -1,0 +1,23 @@
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 20px
+}
+
+.button {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 10px;
+  color: #f4f1ec;
+  background-color: #563305;
+  font-style: italic;
+  font-size: 18px;
+}
+.button:hover, :focus {
+  background-color: #aa6d1d;
+}
+.button:active {
+  background-color: #f7920e;
+}
